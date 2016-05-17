@@ -1,0 +1,22 @@
+{
+  "name": "react-practise",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Qing Xu <xuqing.work@gmail.com>"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "^15.0.2"
+  }
+}
